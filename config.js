@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hello!',
     introDesc: `hmm nói gì giờ nhỉ`,
-    btnIntro: 'hihi',
+    btnIntro: 'hihi :3',
     title: 'khom biết viết gì luân',
     desc: 'nhưng mà hết dịch đi cf nhaa',
     btnYes: 'Đương nhiên gòii',
